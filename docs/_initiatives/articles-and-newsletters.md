@@ -12,6 +12,6 @@ Our articles cover almost all things tech and are written by people who know wha
 - AZ Tech Law & Policy newsletter: Examines current tech law and policy issues.
 - Good News in Tech: A nice breakfrom the usual dystopian robot overlord narrative.
 
-<a href="http://eepurl.com/iwKXEA" class="tec-button">Subscribe to the TEC Newsletter</a>
+<a href="https://eepurl.com/iwKXEA" class="tec-button">Subscribe to the TEC Newsletter</a>
 
 Check out our **[blog](/blog.html)** for more TEC articles.
