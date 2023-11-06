@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+
+<p>
+    {{ page.date | date_to_string }}
+    -
+    {% for author in page.author %}
+        {% assign found_person = false %}
+        {% if author == 'Elio Grieco' %}
+            <a href='https://eliogrieco.com/'>{{ author }}</a>
+            {% assign found_person = true %}
+        {% else %}
+            {% for person in site.people %}
+                {% if person.name == author %}
+                    <a href="{{ person.url }}">{{ person.name }}</a>
+                    {% assign found_person = true %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+        {% if found_person == false %}
+            {{ author }}
+        {% endif %}
+        {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+</p>
+
+{{ content }}

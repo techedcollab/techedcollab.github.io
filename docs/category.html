@@ -1,0 +1,24 @@
+---
+title: Categories
+layout: page
+---
+
+{% assign all_categories = "" %}
+{% for post in site.posts %}
+    {% for category in post.catz %}
+        {% assign all_categories = all_categories | append: category | append: "|" %}
+    {% endfor %}
+{% endfor %}
+{% assign all_categories = all_categories | split: "|" | uniq %}
+
+{% for category in all_categories %}
+    <details>
+        <summary>{{ category }}</summary>
+        {% assign sorted_posts = site.posts | where: 'catz', category | sort: 'date' %}
+        <ul>
+            {% for post in sorted_posts %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.excerpt }}</li>
+            {% endfor %}
+        </ul>
+    </details>
+{% endfor %}

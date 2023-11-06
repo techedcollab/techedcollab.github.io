@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<h1>{{ page.name }}</h1>
+<h2>{{ page.position }}</h2>
+{%- if page.linkedin_username -%}
+    <a href="https://www.linkedin.com/in/{{ page.linkedin_username | cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
+        </svg>
+    </a>
+{%- endif -%}
+{%- if page.github -%}
+    <a href="https://www.github.com/{{ page.github | cgi_escape | escape }}">
+        <svg class="svg-icon">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
+        </svg>
+    </a>
+{%- endif -%}
+<br>
+{%- if page.image -%}<img src="/assets/images/people/{{ page.image }}" alt="{{ page.name }}"> {%- endif -%}
+<br><br>
+{{ content }}
+
+{% assign has_posts = false %}
+{% for post in site.posts %}
+    {% if post.author contains page.name %}
+        {% assign has_posts = true %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+{% if has_posts %}
+    <h2>Articles</h2>
+    <ul>
+        {% for post in site.posts %}
+            {% if post.author contains page.name %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}

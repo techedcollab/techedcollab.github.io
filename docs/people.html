@@ -1,0 +1,26 @@
+---
+title: People
+layout: page
+---
+
+<head>
+    <link rel="stylesheet" type="text/css" href="/assets/css/people.css">
+</head>
+
+<div class="people-grid">
+    {% assign sorted_people = site.people | sort: 'sequence' %}
+    {% for people in sorted_people %}
+        <div class="people-item">
+            <div class="people-text">
+                <h2 class="people-name"><a href="{{ people.url }}">{{ people.name }}</a></h2>
+                <h3 class="people-position">{{ people.position }}</h3>
+            </div>
+            {%- if people.image -%}
+                <div class="people-image">
+                    <img class="people-photo" src="/assets/images/people/{{ people.image }}"
+                         alt="Photo of {{ people.name }}">
+                </div>
+            {%- endif -%}
+        </div>
+    {% endfor %}
+</div>

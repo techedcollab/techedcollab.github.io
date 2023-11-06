@@ -1,0 +1,36 @@
+.events-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.event-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.event-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.event-image img {
+    width: 100%;
+    max-width: 600px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.event-info {
+    flex-grow: 1;
+}
+
+.date {
+    margin: 0;
+    padding-bottom: 5px;
+}

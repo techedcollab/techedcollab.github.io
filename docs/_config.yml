@@ -1,0 +1,67 @@
+# These settings cannot be changed. They are configured by GitHub Pages. Including them here for reference and local development parity.
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+description: Connecting people and technology.
+domain: techedcollab.github.io
+donate_link: https://www.paypal.com/donate/?hosted_button_id=79RVH5LRYZM9E
+email: contact@techedcollab.org
+repository: techedcollab.github.io
+theme: minima
+timezone: America/Phoenix
+title: Technology Education Collaborative
+url: https://techedcollab.github.io
+
+header_pages:
+  - home.md
+  - about.md
+  - initiatives.md
+  - local-tech-calendar.md
+  - blog.html
+  - people.html
+  - contact.md
+
+collections:
+  people:
+    output: true
+    order:
+      - christina_eichelkraut.md
+      - caitlin_derr.md
+      - andrew_karnes.md
+      - wyatt_johnson.md
+  initiatives:
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+defaults:
+  - scope:
+      path: ""
+      type: "people"
+    values:
+      layout: "person"
+  - scope:
+      path: ""
+      type: "initiatives"
+    values:
+      layout: "initiative"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"

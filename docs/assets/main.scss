@@ -1,0 +1,41 @@
+---
+---
+
+$on-palm: 800px; // 800px is the breakpoint where the layout changes
+$theme-color-dark: #233d78;
+$theme-color-light: #9faac4;
+
+
+@import "minima";
+
+.site-nav {
+  display: flex;
+  flex-wrap: nowrap; /* Keep all items in a single line */
+}
+
+.site-nav a {
+  white-space: nowrap; /* Keep text of each link in a single line */
+}
+
+.tec-button {
+  background-color: $theme-color-dark;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 8px;
+}
+
+.tec-button:visited {
+  color: white;
+}
+
+.tec-button:hover {
+  color: $theme-color-light;
+}
+
+.contact-form {
+  color: $theme-color-dark;
+}
+
+a {
+  color: $theme-color-dark;
+}
