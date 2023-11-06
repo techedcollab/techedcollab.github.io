@@ -18,7 +18,7 @@ introductions to**three fully-equipped venues** to get together and talk tech.
 cybersecurity and the policy and laws that can shape what tech you can use and how. We’ll never tell you what to think
 about tech policy, but we will teach you how to share your opinions with the decision makers who matter most.
 
-- Our **[meetups, webinars and events](/tec-events.html)** support and educate established technologists and introduce newcomers to 
+- Our **meetups, webinars and events** support and educate established technologists and introduce newcomers to 
 the tech community. We’ve done everything from support cybersecurity and privacy meetups to demo 3D printers for 
 underserved communities that otherwise wouldn’t have a lot of opportunity to see that tech in action.
 
