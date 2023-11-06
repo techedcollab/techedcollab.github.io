@@ -17,6 +17,16 @@ $theme-color-light: #9faac4;
   white-space: nowrap; /* Keep text of each link in a single line */
 }
 
+@media (max-width: 600px) {
+  .site-title {
+    display: none;
+  }
+}
+
+.site-title-logo {
+  float: left;
+}
+
 .tec-button {
   background-color: $theme-color-dark;
   color: white;
