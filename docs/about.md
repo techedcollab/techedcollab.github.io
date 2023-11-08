@@ -12,7 +12,7 @@ future they work to create each and every day.
 meetups a free Discord channel** on [our server](https://discord.gg/EDfSeTT2Jb). **We’ll handle the setup, you bring the community.** Even if you’re 
 brand new to Discord, we can help you leverage this awesome platform to streamline meeting planning and keep the great
 conversation going. If you run a tech meetup and are **tired of scrambling to find a venue**, we offer members 
-introductions to**three fully-equipped venues** to get together and talk tech.
+introductions to **three fully-equipped venues** to get together and talk tech.
 
 - Our **[articles and newsletters](/blog.html)** explore everything from cutting edge tech and social tech trends to 
 cybersecurity and the policy and laws that can shape what tech you can use and how. We’ll never tell you what to think

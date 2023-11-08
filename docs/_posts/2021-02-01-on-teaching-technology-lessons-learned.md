@@ -1,7 +1,7 @@
 ---
 author: Wyatt Johnson
 reading_time: 4
-image: /assets/images/articles/technology_lessons.png
+image: /assets/images/articles/technology_lessons.jpg
 ---
 
 One of the benefits of 2020 was it gave us the opportunity to investigate how we do things in technology education (admittedly whether we wanted to or not). Social distancing requirements forced technology
