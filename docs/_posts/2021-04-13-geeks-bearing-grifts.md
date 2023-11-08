@@ -6,6 +6,7 @@ excerpt: "Why RFC3161 is superior to blockchain for digital notary in every rega
 reading_time: 11
 image: /assets/images/articles/geeks_bearing_grifts.jpg
 ---
+Written by Elio Grieco, edited by Christina Eichelkraut
 
 *Why RFC3161 is superior to blockchain for digital notary in every regard.*
 

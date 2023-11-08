@@ -3,7 +3,7 @@ author:
 - Christina Eichelkraut
 excerpt: "The inadvertent consequence of well-intentioned technology."
 reading_time: 6
-image: assets/images/articles/relinquishing_our_humanity.jpg
+image: /assets/images/articles/relinquishing_our_humanity.jpg
 ---
 
 
@@ -12,7 +12,9 @@ image: assets/images/articles/relinquishing_our_humanity.jpg
 
 *The inadvertent consequence of well-intentioned technology*
 
-![man with VR headset holding a phone and entangled in wires]({{page.image}})
+![woman in a tank top using a VR headset surrounded by computer monitors]({{page.image}})
+Photo by [cottonbro studio](https://www.pexels.com/photo/a-woman-in-a-tank-top-using-a-vr-headset-8721318/)
+
 
 Technology journalism tends to be either blindingly glowing in its optimism or blatantly dystopian.
 
