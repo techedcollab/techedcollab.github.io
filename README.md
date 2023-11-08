@@ -30,12 +30,14 @@ We use Jekyll to build the website, and you can follow these steps to run a loca
 To run the site locally with live reloading and strict front matter checking, use the following command:
 
 ```bash
-bundle exec jekyll serve --livereload --strict_front_matter
+bundle exec jekyll serve --livereload --strict_front_matter --source docs --open
 ```
 
-The `--livereload` flag will automatically refresh the page when changes are detected, and the `--strict_front_matter`
-flag will throw an error if there are any issues with the front matter in your markdown
-files.
+* `--livereload` will automatically refresh the page when changes are detected
+* `--strict_front_matter` will throw an error if there are any issues with the front matter in your markdown
+files
+* `--source docs` will use the `docs` directory as the source directory for the site
+* `--open` will automatically open the site in your default web browser
 
 ### Viewing the Site
 
