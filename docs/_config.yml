@@ -23,6 +23,7 @@ header_pages:
   - home.md
   - about.md
   - initiatives.md
+  - tec-events.md
   - local-tech-calendar.md
   - blog.html
   - people.html
@@ -37,6 +38,8 @@ collections:
       - andrew_karnes.md
       - wyatt_johnson.md
   initiatives:
+  tec-events:
+    output: true
 
 plugins:
   - jekyll-feed

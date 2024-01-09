@@ -3,7 +3,7 @@ title: TEC Events
 layout: page
 ---
 <div class="events-list">
-    {% for event in site.events %}
+    {% for event in site.tec-events %}
     <div class="event-item">
         <h2 class="event-title"><a href="{{ event.url }}">{{ event.title }}</a></h2>
         {%- if event.image -%}
