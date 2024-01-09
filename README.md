@@ -44,6 +44,20 @@ files
 Once the local server is running, you can view the site by opening a web browser and navigating
 to [`http://localhost:4000`](http://localhost:4000).
 
+### Validating Generated HTML
+Run the following commands to check the generated HTML for:
+* broken links
+* missing alt text
+* insecure http links
+
+```bash
+# Build the site
+bundle exec jekyll build --strict_front_matter --source docs
+
+# Check the site for errors
+bundle exec ruby htmlproofer.rb
+```
+
 ### Troubleshooting
 
 If you run into any issues while running the local server, make sure all the prerequisites are properly installed and
