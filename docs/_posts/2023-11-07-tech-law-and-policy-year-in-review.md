@@ -38,9 +38,9 @@ The federal funds are part of the **FCC’s [Affordable Connectivity Program](ht
 
 **Household incomes at or below 200 percent of the federal poverty guidelines qualify** for the program, but so does anyone who meets a huge range criteria as well. Eligible applicants include **anyone on a free-lunch program at a public school, Medicare recipients, [Lifeline](https://www.fcc.gov/lifeline-consumers) recipients, or people on SNAP, WIC or who receive SSI**. Qualifying tribal lands residents may also be eligible.
 
-To apply for the program, visit [getinternet.gov/apply](http://getinternet.gov/apply).
+To apply for the program, visit [getinternet.gov/apply](https://getinternet.gov/apply).
 
-To find out if your internet service provider participates, visit https://cnm.universalservice.org. 
+To find out if your internet service provider participates, visit [https://cnm.universalservice.org](https://cnm.universalservice.org). 
 
 Even if you don’t need this assistance, **if you think your area ISP should participate in the program, reach out and ask why they don’t.**
 
@@ -68,7 +68,7 @@ The Phoenix contract began in November 1, 2023 and will be in effect until Febru
 
 ---
 
-## [Arizona State Legislature] Proposed State Cryptocurrency Legislation Fails to Become Law…But Will Likely Be Back 
+## [Arizona State Legislature] Proposed State Cryptocurrency Legislation Fails to Become Law… But Will Likely Be Back 
 
 ![State Legislature Chamber](/assets/images/articles/2023-11-07-year-in-review-3.jpg)
 
@@ -88,9 +88,9 @@ Which doesn’t mean much, **as these policy proposals will likely be back**, in
 
 **However, taxation gets a bit more complicated when it comes to cryptocurrency because of crypto miners.** Crypto miners essentially run a business in which the cryptocurrency is their assets or, for lack of a better term, "inventory."
 
-**Being a digital asset, this means a minor's crypto isn't claimed the same way[ other businesses must claim inventory](https://ware2go.co/articles/from-sales-tax-to-inventory-tax-the-complete-guide-for-ecommerce-businesses/#:~:text=Yes.,lower%20of%20cost%20or%20retail.).** Mined cryptocurrency is also not taxed at point of purchase since it's not purchased as such per se.
+**Being a digital asset, this means a minor's crypto isn't claimed the same way [other businesses must claim inventory](https://ware2go.co/articles/from-sales-tax-to-inventory-tax-the-complete-guide-for-ecommerce-businesses/#:~:text=Yes.,lower%20of%20cost%20or%20retail.).** Mined cryptocurrency is also not taxed at point of purchase since it's not purchased as such per se.
 
-To learn **what current state laws govern cryptocurrency** in any state, **check out[ this handy guide](https://pro.bloomberglaw.com/brief/cryptocurrency-laws-and-regulations-by-state/#arizona).**
+To learn **what current state laws govern cryptocurrency** in any state, **check out [this handy guide](https://pro.bloomberglaw.com/brief/cryptocurrency-laws-and-regulations-by-state/#arizona).**
 
 ---
 
@@ -98,7 +98,7 @@ To learn **what current state laws govern cryptocurrency** in any state, **check
 
 ![Data center racks](/assets/images/articles/2023-11-07-year-in-review-4.jpg)
 
-**The Phoenix metro valley has been[ a data center hub](https://www.datacentermap.com/usa/arizona/phoenix/) for nearly 10 years, and there’s [no signs of that slowing down](https://azbigmedia.com/real-estate/phoenix-ranks-no-6-for-data-center-construction-in-2023/).**
+**The Phoenix metro valley has been [a data center hub](https://www.datacentermap.com/usa/arizona/phoenix/) for nearly 10 years, and there’s [no signs of that slowing down](https://azbigmedia.com/real-estate/phoenix-ranks-no-6-for-data-center-construction-in-2023/).**
 
 **[Mesa, however, is having second thoughts](https://www.globest.com/2023/09/14/rapidly-growing-arizona-data-center-hub-says-it-has-enough/?slreturn=20230925191042).**
 
@@ -136,7 +136,7 @@ To learn **what current state laws govern cryptocurrency** in any state, **check
 
 
 1. Register for the state Legislature’s [Request to Speak](https://apps.azleg.gov/Account/SignOn) system. This allows you to indicate approval or disapproval for bills with a thumbs up or thumbs down or, alternately, submit a written comment. You can also request to speak in person.
-   You’ll also want to bookmark [this list of acronyms](https://www.azleg.gov/faq/abbreviations/) if you’re new to the system. \
+   You’ll also want to bookmark [this list of acronyms](https://www.azleg.gov/faq/abbreviations/) if you’re new to the system.
 
 2. Go down to the Capitol in person and complete registration at one of the kiosks. The kiosk is located in the State Senate, House of Representatives buildings at:
 
@@ -154,7 +154,7 @@ Speaking at or submitting a comment for a Phoenix City Council meeting is also a
 
 
 
-1. Go to this web page:[ https://www.phoenix.gov/cityclerk/publicmeetings/city-council-meetings \
+1. Go to this web page: [https://www.phoenix.gov/cityclerk/publicmeetings/city-council-meetings
    ](https://www.phoenix.gov/cityclerk/publicmeetings/city-council-meetings)
 2. Scroll down a bit. Locate the meeting you’re interested in.
 3. Click the Comment icon to request to speak in person at the meeting or the keyboard icon to submit a written comment.
@@ -172,7 +172,7 @@ d. Go to the podium when called and speak your peace within two- to three-minute
 
 **Submitting a Written Comment:**
 
-a. Clicking the keyboard icon will take you to a new page **where you inexplicably must create an account on the “eComment system”** at[ https://phoenix.granicusideas.com \
+a. Clicking the keyboard icon will take you to a new page **where you inexplicably must create an account on the “eComment system”** at [https://phoenix.granicusideas.com \
 ](https://phoenix.granicusideas.com)b. Tediously scroll through the massive list of agenda items and locate the specific item you on which you wish to submit a written comment on
 
 c. Submit your civil, respectful, insightful comment
@@ -188,7 +188,7 @@ _When or if generative AI is used, full disclosure on its use and application wi
 
 **Should you find this publication valuable, we humbly request your support.**
 
-**TEC is a 100 percent volunteer driven nonprofit 501(c)3**. Donations support our infrastructure costs, such as our domain name hosting and the insurance policy that enables us to sponsor events and tech meetups, including our Privacy Meetup. Our website is free and uses[ GitHub Pages](https://pages.github.com/).
+**TEC is a 100 percent volunteer driven nonprofit 501(c)3**. Donations support our infrastructure costs, such as our domain name hosting and the insurance policy that enables us to sponsor events and tech meetups, including our Privacy Meetup. Our website is free and uses [GitHub Pages](https://pages.github.com/).
 
 <a href="https://eepurl.com/iwKXEA" class="tec-button">Subscribe to the TEC Newsletter</a>
 
