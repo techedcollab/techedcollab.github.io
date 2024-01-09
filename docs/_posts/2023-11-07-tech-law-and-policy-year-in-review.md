@@ -140,7 +140,7 @@ To learn **what current state laws govern cryptocurrency** in any state, **check
 
 2. Go down to the Capitol in person and complete registration at one of the kiosks. The kiosk is located in the State Senate, House of Representatives buildings at:
 
-1700 W. Washington St \
+1700 W. Washington St
 Phoenix, AZ 85007
 
 Is having to visit a government building during the week during business hours a ridiculous obstacle to participating in the public policy process? Yes, yes it is.
