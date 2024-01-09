@@ -1,7 +1,7 @@
 ---
 date: 2023-06-01
 title: "June 2023 SWCSF ISSA Joint Meeting"
-image: /assets/images/events/2023-06-01-swcsf-issa-meeting.png/assets/images/events/2023-06-01-swcsf-issa-meeting.png
+image: /assets/images/events/2023-06-01-swcsf-issa-meeting.png
 ---
 
 # June 2023 SWCSF ISSA Joint Meeting
@@ -10,7 +10,7 @@ image: /assets/images/events/2023-06-01-swcsf-issa-meeting.png/assets/images/eve
 - Gateway Community College
 - [Register](https://www.eventbrite.com/e/issa-2023-q2-educational-event-tickets-633270648557)
 
-![June 2023 SWCSF ISSA Joint Meeting Social Card](/assets/images/events/2023-06-01_swcsf_issa_meeting.png/assets/images/events/2023-06-01_swcsf_issa_meeting.png)
+![June 2023 SWCSF ISSA Joint Meeting Social Card](/assets/images/events/2023-06-01-swcsf-issa-meeting.png)
 
 ## June 1st SWCSF & ISSA Joint Meeting
 
@@ -40,4 +40,4 @@ The registration desk will be just inside the main doors on the East side of the
 
 ![Gateway Map](/assets/images/events/gateway_map.png)
 
-![Building Map](docs/assets/images/events/building_map.png)
+![Building Map](/assets/images/events/building_map.png)

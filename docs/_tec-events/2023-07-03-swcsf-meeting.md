@@ -1,7 +1,7 @@
 ---
 date: 2023-07-03
 title: "July 2023 SWCSF Meeting"
-image: /assets/images/events/2023-07-03-swcsf-parking.png
+image: /assets/images/events/2023-07-03-swcsf.png
 ---
 
 # July 2023 SWCSF Meeting
@@ -18,7 +18,7 @@ image: /assets/images/events/2023-07-03-swcsf-parking.png
 
 ## Presentation Topic: You Can Be Correct Sir
 
-![iFacts slide from the Making Software Correct by Construction talk](/assets/images/events/2023_07_03_swcsf.png)
+![iFacts slide from the Making Software Correct by Construction talk](/assets/images/events/2023-07-03-swcsf.png)
 
 A watch-along review of [Making Software ‘Correct by Construction’ by Professor Martyn Thomas CBE](https://www.youtube.com/watch?v=03mUs5NlT6U). We’ll watch this talk together and pause for any questions you might have during the talk.
 
@@ -57,11 +57,11 @@ Phoenix, AZ 85034
 Map link to the [Exact Location](https://www.google.com/maps/place/South+Building/@33.4484729,-111.9984009,19z/data=!3m1!4b1!4m6!3m5!1s0x872b0e87ca3e5fc9:0xf58ab1600bd355fc!8m2!3d33.4484729!4d-111.9977572!16s%2Fg%2F1hdzm1g1l?shorturl=1)
 #### Parking Map
 Map of campus and parking options at Gateway Community College with SWCSF and the ACSL highlighted.
-![Parking Map](/assets/images/events/2023-07-03-swcsf-parking.png)
+![Parking Map](/assets/images/events/gateway_map.png)
 
 #### South Building Map
 Floorplan with room SO1330 highlighted for the South Building at Gateway Community College
-![Building Map](docs/assets/images/events/2023-07-03-swcsf-south-building-map.png)
+![Building Map](/assets/images/events/2023-07-03-swcsf-south-building-map.png)
 
 ## Food
 
