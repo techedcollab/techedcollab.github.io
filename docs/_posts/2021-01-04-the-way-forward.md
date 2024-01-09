@@ -15,7 +15,7 @@ catz: ["Computers: The Pitfalls, Perils and Promise"]
 
 Photo by NASA
 
-The [first two articles](../blog/categories/pitfalls-perils-and-promise.html) in this series paint a dark picture.
+The first two articles in this series paint a dark picture.
 
 Undeniably, problems continue to grow exponentially in both scope and scale. **Humanitarian technology that stems from true innovation is still achievable.** But it will not be easy. Realizing technology’s *true* potential requires fundamental changes that challenge currently-held core beliefs. We must change everything about how we interact with tech, from our core perceptions of what technology is and what it can do to how we develop and implement it.
 
@@ -85,7 +85,7 @@ What constitutes a useful digital identity is beyond the scope of this article, 
 
 The one aspect worth mentioning here is that any such identity construct must be an open protocol (think IP, TCP/UDP, HTTP) and allow the creation of “self-sovereign” identities. Crucially, this is an identity individuals can create or revoke without permission from (or the need to pay) any centralized entity.
 
-We will examine what this might look like and how to achieve these goals in future articles. For those curious about identity concepts the [white papers](https://www.weboftrust.info/papers.html) from [*Rebooting the Web of Trust*](https://www.weboftrust.info/) are a great source of knowledge on current and future aspects of this topic.
+We will examine what this might look like and how to achieve these goals in future articles. For those curious about identity concepts the [white papers](https://www.weboftrust.info/papers/) from [*Rebooting the Web of Trust*](https://www.weboftrust.info/) are a great source of knowledge on current and future aspects of this topic.
 
 ## Re-Decentralize
 
@@ -109,9 +109,9 @@ Fully distributed systems have the added advantage of scaling easily. In a well 
 
 ### Offline first is the best
 
-Today’s computer services operate on an apparent assumption the internet never goes out or has any issues (something directly contradicted by rule 1 of the [fallacies of distributed systems](https://blogs.oracle.com/developers/fallacies-of-distributed-systems)).
+Today’s computer services operate on an apparent assumption the internet never goes out or has any issues (something directly contradicted by rule 1 of the [fallacies of distributed systems](https://blogs.oracle.com/developers/post/fallacies-of-distributed-systems)).
 
-Not only is this [simply untrue](https://www.theverge.com/2020/11/25/21719396/amazon-web-services-aws-outage-down-internet)**,** but it makes these services unsuitable for use in emergencies or remote locations. Well-designed systems seek to minimize points of failure, especially single points of failure. **By assuming the internet is always available and working we’ve introduced a single point of failure that puts our fate in the** [**behavior of almost anyone on the planet**](https://habr.com/en/company/qrator/blog/502194/).
+Not only is this [simply untrue](https://www.theverge.com/2020/11/25/21719396/amazon-web-services-aws-outage-down-internet)**,** but it makes these services unsuitable for use in emergencies or remote locations. Well-designed systems seek to minimize points of failure, especially single points of failure. **By assuming the internet is always available and working we’ve introduced a single point of failure that puts our fate in the** [**behavior of almost anyone on the planet**](https://webcache.googleusercontent.com/search?q=cache:B_DAoRvwe_8J:https://habr.com/en/companies/qrator/articles/502194/&hl=en&gl=us).
 
 Offline first systems such as [Scuttlebutt](https://scuttlebutt.nz/) and [Git](https://git-scm.com/) (the protocol, not the GitHub service) can provide service without the benefit of an internet connection. Consequently, these systems are more resilient against natural disasters and attacks and preferable for rural areas. This also allows users to limit their exposure to cyberthreats when traveling since they can shut off their WiFi.
 

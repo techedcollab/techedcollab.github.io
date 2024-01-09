@@ -6,6 +6,7 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 gem 'minima'
 gem 'rubocop' # Ruby checkstyle
 gem 'webrick' # Jekyll dependency
+gem 'html-proofer'  # HTML validation
 
 group :jekyll_plugins do
   # gem 'github-pages' # integration with GitHub Pages

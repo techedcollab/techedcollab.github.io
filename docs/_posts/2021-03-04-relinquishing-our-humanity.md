@@ -32,7 +32,7 @@ Even the best examples of technology journalism eschew kicking over this rock of
 
 Last September, *National Geographic* published an [exceptionally well-done article](https://www.nationalgeographic.com/science/2020/09/face-mask-recognition-has-arrived-for-coronavirus-better-or-worse-cvd/?cmpid=org=ngp::mc=crm-email::src=ngp::cmp=editorial::add=SpecialEdition_20200911&rid=42DA38B47BA0579A2BA4E838E9E71285) titled “Face-mask recognition has arrived—for better or worse” by Wudan Yan. The article highlights a company developing software that identifies whether or not a person is wearing a mask.
 
-The intentions behind the technology are the epitome of altruism. Akash Taykar wants to use his software company Leeway Hertz to stop the [public shaming](https://twitter.com/JoshuaPotash/status/1264889424468459520) of people who do not wear masks in public.
+The intentions behind the technology are the epitome of altruism. Akash Taykar wants to use his software company Leeway Hertz to stop the [public shaming](https://x.com/JoshuaPHilll/status/1264889424468459520) of people who do not wear masks in public.
 
 Taykar’s initiative is an excellent example of a person willing to leverage their expertise and resources to benefit society. He should be congratulated for putting time, effort and money into addressing one of the most pressing challenges of the current pandemic.
 
@@ -50,13 +50,13 @@ In a laudable example of complete coverage, Yan interviewed experts who acknowle
 
 It’s not that technology is inherently bad, of course. But solutions to social problems are usually found by tapping into our inherent humanity itself.
 
-People like [Christian Picciolini](https://www.nprillinois.org/post/ex-neo-nazi-sheds-light-alt-right-life-after-hate#stream/0) didn’t leave the hate-filled world of the alt-right because they were canceled, shunned and dogpiled on by social media keyboard warriors; they left because of empathy, something no technology can replicate. Or, in the case of mask recognition technology, substitute.
+People like [Christian Picciolini](https://www.nprillinois.org/equity-justice/2017-02-27/ex-neo-nazi-sheds-light-on-alt-right-life-after-hate) didn’t leave the hate-filled world of the alt-right because they were canceled, shunned and dogpiled on by social media keyboard warriors; they left because of empathy, something no technology can replicate. Or, in the case of mask recognition technology, substitute.
 
 We also can’t legislate people into morality. Doing so, and using technology to enforce said legislation, only makes things worse. And technology won’t necessarily address core issues that lead to societal ills.
 
 Our toxic online environment has exacerbated the growing absence of empathy, compassion and reason in society. Increasingly those parts of our humanity are replaced with knee-jerk outbursts of rage disguised as indignation or moral self-righteousness, all shouted in the furious cadence of clacking keys.
 
-[The rise of “cancel culture”](https://www.city-journal.org/html/age-outrage-15608.html) exemplifies this phenomenon. Many employers know firing someone – to take food from their table and put the roof above their family’s head in jeopardy, to rob one of the dignity of work (which psychologists have long acknowledged is [the real value of earning a paycheck](https://www.psychologytoday.com/us/blog/in-practice/201908/what-psychological-benefits-do-you-get-work#:~:text=Work%20can%20help%20you%20maintain,work%20collapses%2C%20so%20will%20you)) – is no light matter.
+[The rise of “cancel culture”](https://www.city-journal.org/html/age-outrage-15608.html) exemplifies this phenomenon. Many employers know firing someone – to take food from their table and put the roof above their family’s head in jeopardy, to rob one of the dignity of work (which psychologists have long acknowledged is [the real value of earning a paycheck](https://www.psychologytoday.com/us/blog/in-practice/201908/what-psychological-benefits-do-you-get-work)) – is no light matter.
 
 Yet today many people who are outraged at corporate callousness when it comes to pink slips due to automation don’t hesitate to jump on board a hashtag campaign to have a complete stranger fired for voicing views that oppose their own.
 

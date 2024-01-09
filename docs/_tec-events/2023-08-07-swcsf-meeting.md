@@ -14,7 +14,7 @@ image: /assets/images/events/swcsf_logo.png
 - 6:30 - 6:40pm: Meeting Start and Announcements
 - 6:40 - 7:00pm: **Cyber Threat Updates** by Erik Graham
 - 7:10 - 8:00pm: **Pegasus & the Phantom Menace It Left Behind** by [Christina Eichelkraut](https://www.techedcollab.org/people/christina_eichelkraut.html)
-- 8:10 - 8:45pm: **Android Privacy Tips** by [Elio Grieco](eliogrieco.com)
+- 8:10 - 8:45pm: **Android Privacy Tips** by [Elio Grieco](https://eliogrieco.com)
 - 8:45 - 9:00pm: Wrap Up and Networking
 
 ## Topic 1: Pegasus & the Phantom Menace It Left Behind
@@ -38,7 +38,7 @@ This conversation will discuss what Pegasus is, where it came from and how it in
 - Council on Foreign Relations, [cfr.org](https://www.cfr.org), “[How Israel’s Pegasus Spyware Stoked the Surveillance Debate](https://www.cfr.org/in-brief/how-israels-pegasus-spyware-stoked-surveillance-debate),” March 8, 2022
 - [The Pegasus Project](https://www.theguardian.com/news/series/pegasus-project), The Guardian, ongoing.
 - New York Times, “[A Front Company and a Fake Identity: How the U.S. Came to Use Spyware It Was Trying to Kill](https://www.nytimes.com/2023/04/02/us/politics/nso-contract-us-spy.html),” April 2, 2023 (updated April 10)
-- ACLU Newsletter, “[Five Things to Know About NSA Mass Surveillance and the Coming Fight in Congress](https://www.aclu.org/news/national-security/five-things-to-know-about-nsa-mass-surveillance-and-the-coming-fight-in-congress#:~:text=FBI%20agents%20routinely%20run%20searches,to%20do%20with%20national%20security.),” April 11, 2023
+- ACLU Newsletter, “[Five Things to Know About NSA Mass Surveillance and the Coming Fight in Congress](https://www.aclu.org/news/national-security/five-things-to-know-about-nsa-mass-surveillance-and-the-coming-fight-in-congress),” April 11, 2023
 - New York Times, “[Who Paid for a Mysterious Spy Tool? The F.B.I., an F.B.I. Inquiry Found](https://www.nytimes.com/2023/07/31/us/politics/nso-spy-tool-landmark-fbi.html),” July 31, 2023
 
 ## Topic 2: Android Privacy Tips

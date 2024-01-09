@@ -88,7 +88,7 @@ Which doesn’t mean much, **as these policy proposals will likely be back**, in
 
 **However, taxation gets a bit more complicated when it comes to cryptocurrency because of crypto miners.** Crypto miners essentially run a business in which the cryptocurrency is their assets or, for lack of a better term, "inventory."
 
-**Being a digital asset, this means a minor's crypto isn't claimed the same way [other businesses must claim inventory](https://ware2go.co/articles/from-sales-tax-to-inventory-tax-the-complete-guide-for-ecommerce-businesses/#:~:text=Yes.,lower%20of%20cost%20or%20retail.).** Mined cryptocurrency is also not taxed at point of purchase since it's not purchased as such per se.
+**Being a digital asset, this means a minor's crypto isn't claimed the same way [other businesses must claim inventory](https://ware2go.co/articles/from-sales-tax-to-inventory-tax-the-complete-guide-for-ecommerce-businesses/).** Mined cryptocurrency is also not taxed at point of purchase since it's not purchased as such per se.
 
 To learn **what current state laws govern cryptocurrency** in any state, **check out [this handy guide](https://pro.bloomberglaw.com/brief/cryptocurrency-laws-and-regulations-by-state/#arizona).**
 

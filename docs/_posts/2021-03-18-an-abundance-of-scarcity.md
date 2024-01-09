@@ -8,7 +8,7 @@ image: /assets/images/articles/abundance_of_scarcity.jpg
 
 ![Small girl in purple dress standing amidst endless piles of broken and discarded technology. ](/assets/images/articles/abundance_of_scarcity.jpg)
 
-Photo used with permission from [Greenpeace.org.](http://greenpeace.org)
+Photo used with permission from [Greenpeace.org.](https://greenpeace.org)
 
 *How adding scarcity to digital and other p*os*t-scarcity environments creates problems and suffering.*
 
@@ -20,7 +20,7 @@ As humans have populated nearly every corner of the planet, our impact is truly 
 
 ## Abundance via Technology
 
-One advantage humans have over other animals, however, is the scientific method. Scientific discovery frequently becomes applied technology that gives humanity extraordinary new capabilities. We can count among these the ability to use resources more efficiently. We can convert one resource into another, like making food from things that would normally be inedible. We burn fuel to create energy and even [*transform matter directly into energy*](https://www.iaea.org/newscenter/news/pioneering-nuclear-science-discovery-nuclear-fission) or [*transmute one element to another*](https://www.radioactivity.eu.com/site/pages/Nuclear_Transmutations.htm) with nuclear technology.
+One advantage humans have over other animals, however, is the scientific method. Scientific discovery frequently becomes applied technology that gives humanity extraordinary new capabilities. We can count among these the ability to use resources more efficiently. We can convert one resource into another, like making food from things that would normally be inedible. We burn fuel to create energy and even [*transform matter directly into energy*](https://www.iaea.org/newscenter/news/pioneering-nuclear-science-discovery-nuclear-fission) or [*transmute one element to another*](https://radioactivity.eu.com/phenomenon/nuclear_transmutations) with nuclear technology.
 
 **The ability to use technology to reduce the impact of scarcity is one of humanity’s greatest achievements.** No other species has pulled this off.
 
@@ -40,7 +40,7 @@ Unfortunately, because we've become so used to scarcity we can't even imagine a 
 
 Humans regulate and navigate scarcity partly through economic systems. After all, if anyone could have as much as they wanted of any resource there would be no need for economies or money.
 
-So we’ve created massive, complex systems of rules to manage distributed resources. We've become so obsessed with these systems that we now gladly [*waste*](https://www.offthegridnews.com/current-events/us-government-orders-farmers-to-destroy-30-million-pounds-of-their-own-crop/) or [*destroy real resources to improve the imaginary numbers*](https://livinghistoryfarm.org/farminginthe30s/crops_17.html) of our economic systems such as when crops are destroyed to stabilize prices.
+So we’ve created massive, complex systems of rules to manage distributed resources. We've become so obsessed with these systems that we now gladly [*waste*](https://www.offthegridnews.com/current-events/us-government-orders-farmers-to-destroy-30-million-pounds-of-their-own-crop/) or [*destroy real resources to improve the imaginary numbers*](https://livinghistoryfarm.org/farming-in-the-1930s/) of our economic systems such as when crops are destroyed to stabilize prices.
 
 Thus modern economies are based on the idea of constant and infinite growth, a patently absurd concept in a finite world. So, we have had to become ever more imaginative about maintaining the illusion of constant and infinite growth within these systems.
 

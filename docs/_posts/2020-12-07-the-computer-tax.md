@@ -15,7 +15,7 @@ catz: ["Computers: The Pitfalls, Perils and Promise"]
 
 ![Old desktop PCs on display.]({{page.image}})
 
-Photo by Alex [Motoc](https://unsplash.com/@alexmotoc).
+Photo by Alex Motoc (https://unsplash.com/@alexmotoc).
 
 How many of us have cursed under our breath as we wait for our smartphone to reboot, a web page to load, or the show we're watching to buffer? Who hasn't felt jagged frustration at the endless parade of passwords and captchas modern web sites demand? Tech glitches snatch time from us in small, irretrievable snippets every day. We call this loss of time "the computer tax."
 
@@ -23,7 +23,7 @@ Each instance lasts mere seconds, but cumulatively the lost time adds up. While 
 
 Ironically, computers were invented to give us more time by freeing us from the repetitive and mundane tasks necessary to keep the world running. Initially, this meant computations and calculations, something humans are not especially quick or accurate at performing. Early computer scientists realized that with enough Math an entirely new class of problems could be solved. Math enabled computers to become tools for composing letters, sending information, editing or even synthesizing videos. It seemed as though the golden age of the computer had begun.
 
-Computers became embedded into increasingly more facets of our lives. Today, they are so ubiquitous *not* having a computer integrated into a task is hard to imagine, whether it's doing laundry or going for a walk around the neighborhood. The human body and brain are the only machines on Earth a computer can't replicate and yet we strap computers onto them or embed them [*within ourselves*](https://www.newelectronics.co.uk/electronics-technology/implantable-interface-innovation/174945/).
+Computers became embedded into increasingly more facets of our lives. Today, they are so ubiquitous *not* having a computer integrated into a task is hard to imagine, whether it's doing laundry or going for a walk around the neighborhood. The human body and brain are the only machines on Earth a computer can't replicate and yet we strap computers onto them or embed them [*within ourselves*](https://www.newelectronics.co.uk/content/features/implantable-interface-innovation).
 
 Now, at last, we have begun to suspect there may be a limit to how much computers can improve our lives. It is harder to ignore that rather than reducing the number of monotonous tasks in our lives, computers instead increase them. At their worst, computers add extra, time-wasting steps to what used to be quick, simple tasks.
 
