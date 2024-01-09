@@ -30,7 +30,7 @@ Subscribe to stay up to date on new events and conferences.
 - [Information Systems Audit and Control Association (ISACA) Phoenix Chapter](https://engage.isaca.org/phoenixchapter/home)
 - [Information Systems Security Association (ISSA) Phoenix Chapter](https://phoenix.issa.org/?doing_wp_cron=1699216645.0057470798492431640625)
 - [International Information System Security Certification Consortium (ISC2) Phoenix Chapter](https://isc2chapter-phoenix.org/)
-- [Institute of Electrical and Electronics Engineers (IEEE) Phoenix Chapters](https://r6.ieee.org/phoenix/432970-2/)
+- [Institute of Electrical and Electronics Engineers (IEEE) Phoenix Chapters](https://r6.ieee.org/phoenix/)
 - [Women in Cybersecurity (WiCyS) Phoenix Chapter](https://www.wicys.org/wicys-phoenix-az/)
 
 ## Events

@@ -21,7 +21,7 @@ Here are the major changes made by the EARN IT Act, in order of appearance:
 
 - Establishes a National Commission on Online Child Sexual Exploitation Prevention
 
-- Amends Section 230 of the [*Communications Decency Act*](https://www.mtsu.edu/first-amendment/article/1070/communications-decency-act-of-1996#:~:text=Congress%20enacted%20the%20Communications%20Decency,explicit%20materials%20on%20the%20Internet)
+- Amends Section 230 of the [*Communications Decency Act*](https://firstamendment.mtsu.edu/article/communications-decency-act-and-section-230/)
 
 - Replaces the term “child pornography” with the more modern term “child sexual abuse material” in several pieces of existing legislation
 

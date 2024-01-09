@@ -61,7 +61,7 @@ Map of campus and parking options at Gateway Community College with SWCSF and th
 
 #### South Building Map
 Floorplan with room SO1330 highlighted for the South Building at Gateway Community College
-![Building Map](/assets/images/events/2023-07-03-swcsf-south-building-map.png)
+![Building Map](/assets/images/events/swcsf-south-building-map.png)
 
 ## Food
 
