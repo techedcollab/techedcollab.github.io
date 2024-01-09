@@ -13,7 +13,7 @@ image: /assets/images/events/swcsf_logo.png
 - 6:00 - 6:30pm: Networking and Food
 - 6:30 - 7:00pm: Meeting Start and Announcements
 - 7:00 - 8:00pm: **What the FISA?!** by [Christina Eichelkraut](https://www.techedcollab.org/people/christina_eichelkraut.html)
-- 8:05 - 8:45pm: **Breakdown in Communication** by [Elio Grieco](eliogrieco.com)
+- 8:05 - 8:45pm: **Breakdown in Communication** by [Elio Grieco](https://eliogrieco.com/)
 - 8:45 - 9:00pm: Wrap Up and Networking
 
 ## Presentation 1: What the FISA?! Privacy Under the Fighting – and Flailing – Fourth Amendment
