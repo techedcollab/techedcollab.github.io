@@ -15,7 +15,7 @@ catz: ["Computers: The Pitfalls, Perils and Promise"]
 
 ![Old desktop PCs on display.]({{page.image}})
 
-Photo by Alex Motoc (@alexmotoc).
+Photo by Alex Motoc (https://unsplash.com/@alexmotoc).
 
 How many of us have cursed under our breath as we wait for our smartphone to reboot, a web page to load, or the show we're watching to buffer? Who hasn't felt jagged frustration at the endless parade of passwords and captchas modern web sites demand? Tech glitches snatch time from us in small, irretrievable snippets every day. We call this loss of time "the computer tax."
 
