@@ -24,6 +24,8 @@ If you want to have a civil, respectful discussion about these topics, you can *
 
 Since this inaugural edition of AZ TEC Law & Policy is published after [the state Legislature has (finally) adjourned](https://azcapitoltimes.com/news/2023/08/25/longest-session-didnt-yield-much-lawmakers-eye-2024/), **we’ll use this issue to get you caught up on some of the biggest tech news from 2023**. Some of it may be “old” news, but since the programs still exist we’re telling you about them anyway. 
 
+---
+
 ## [City of Phoenix] Phoenix Receives $700,000 Federal Grant to Close the Digital Divide 
 
 ![Network device with ethernet cables]({{page.image}})
@@ -44,6 +46,8 @@ Even if you don’t need this assistance, **if you think your area ISP should pa
 
 And remember, if someone you know may need this program they might not have the tech or access to apply. Or, they may find filling out the form daunting. It never hurts to share information or offer to help. 
 
+---
+
 ## [City of Phoenix] No Competition for $35 million IT Contract 
 
 ![City of Phoenix Logo on Window](/assets/images/articles/2023-11-07-year-in-review-2.jpg)
@@ -61,6 +65,8 @@ Fair enough, but **that does beg the question as to why**. Was it the contract c
 **Still, that doesn’t mean the contract was rubber stamped.** The city’s finance department worked with its in-house IT department and reviewed a number of similar cooperative contracts. Apparently, Mesa’s Omnia Partners Cooperative Agreement offered the best guide for Phoenix as “it included the best discounts on key products that the City will be purchasing and provided the most comprehensive list of options.” 
 
 The Phoenix contract began in November 1, 2023 and will be in effect until February 28, 2025 with a one-year extension option.
+
+---
 
 ## [Arizona State Legislature] Proposed State Cryptocurrency Legislation Fails to Become Law…But Will Likely Be Back 
 
@@ -86,6 +92,8 @@ Which doesn’t mean much, **as these policy proposals will likely be back**, in
 
 To learn **what current state laws govern cryptocurrency** in any state, **check out[ this handy guide](https://pro.bloomberglaw.com/brief/cryptocurrency-laws-and-regulations-by-state/#arizona).**
 
+---
+
 ## [Phoenix Metro Valley] Data Centers Abound… but Mesa Has Second Thoughts
 
 ![Data center racks](/assets/images/articles/2023-11-07-year-in-review-4.jpg)
@@ -99,6 +107,8 @@ To learn **what current state laws govern cryptocurrency** in any state, **check
 **Still, Mesa officials are reportedly questioning the ROI on investments that, though useful, do not create jobs and consume a substantial amount of resources, especially water.**
 
 **Meanwhile, Avondale is anticipating [five Prime data centers](https://www.datacenterfrontier.com/hyperscale/article/33004536/prime-will-enter-phoenix-market-with-210-megawatt-campus) that will sprawl across 66 acres. The company cited the Valley’s low risk of natural disaster, low energy costs and a good quality of life as their incentive for choosing to locate in Avondale.**
+
+---
 
 ## [Arizona] Arizona Receives Nearly $1 Billion of Federal Funds to Increase Broadband Access
 
@@ -115,6 +125,8 @@ To learn **what current state laws govern cryptocurrency** in any state, **check
 **In the same vein, it’s worth noting Arizona businesses in rural areas may qualify for the U.S. Department of Agriculture’s [ReConnect](https://www.usda.gov/reconnect) Grand and Loan program.**
 
 **Arizona was awarded [$17.1 million of federal funding](https://www.rd.usda.gov/newsroom/news-release/usda-invests-171-million-bring-high-speed-internet-access-communities-rural-arizona) from the program in October last year. Individuals are not eligible for the ReConnect program, which is specifically meant to bring high-speed internet access to rural communities.**
+
+---
 
 ## How To Talk to the Government
 
@@ -166,6 +178,9 @@ a. Clicking the keyboard icon will take you to a new page **where you inexplicab
 c. Submit your civil, respectful, insightful comment
 
 d. Wonder why, exactly, there are time constraints on commenting prior to an item being called and also why, exactly, the creation of an account and acquisition of your information beyond a name was necessary
+
+---
+
 
 _This newsletter, unless otherwise bylined, is written by TEC’s CEO & Co-Founder, Christina Eichelkraut, a formally educated and experienced print reporter._
 
