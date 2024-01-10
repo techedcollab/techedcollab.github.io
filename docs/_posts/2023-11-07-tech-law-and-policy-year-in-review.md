@@ -2,7 +2,7 @@
 author:
 - Christina Eichelkraut
 excerpt: "We’ll use this issue to get you caught up on some of the biggest tech news from 2023. Some of it may be “old” news, but since the programs still exist we’re telling you about them anyway."
-reading_time: 7
+reading_time: 15
 image: /assets/images/articles/2023-11-07-year-in-review.jpg
 ---
 
