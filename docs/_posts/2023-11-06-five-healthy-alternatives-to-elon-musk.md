@@ -64,7 +64,7 @@ _Radia Perlman, inventor of the Spanning Tree Protocol algorithm_
 
 Do you use the internet? Take a moment and give thanks to [Radia Perlman](https://lemelson.mit.edu/resources/radia-perlman), a network engineer, mathematician, and computer programmer.
 
-The **"Mother of the Internet" invented the algorithm on which [Spanning Tree Protocol](https://en.wikipedia.org/wiki/Spanning_Tree_Protocol)<span style="text-decoration:underline;"> </span>is based.** For you non-tech people, that’s basically kinda-sorta what makes the networking part of an Ethernet connection function.
+The **"Mother of the Internet" invented the algorithm on which [Spanning Tree Protocol](https://en.wikipedia.org/wiki/Spanning_Tree_Protocol) is based.** For you non-tech people, that’s basically kinda-sorta what makes the networking part of an Ethernet connection function.
 
 **The STP standards are still in place today.** Perlman has gone on to create some 80 patents for network technologies and co-wrote or authored two textbooks. Currently, **Perlman's work focuses on network security and making STP more secure and able.**
 

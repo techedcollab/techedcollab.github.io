@@ -58,13 +58,13 @@ The current test pilot uses 16 devices installed in various sewer drains through
 
 ## New 3D Printing Method Leads to Flexible Hand Prosthetics
 
-![Robotic hands holding a marker and a water bottle"](/assets/images/articles/2024-01-02-good-tech-news-4.jpg)
+![Robotic hands holding a marker and a water bottle](/assets/images/articles/2024-01-02-good-tech-news-4.jpg)
 
 One of the main challenges in leveraging 3D printing and robotics to create usable, realistic prosthetics for certain limbs is the inability to replicate the soft, flexible parts of the human body that enable it to move in specific ways.
 
 This is particularly true when it comes to hands and feet, possibly the [most complex](https://www.youtube.com/watch?v=-y69D76RdMs) structures in the human body. In addition to a large number of very small bones, both appendages a lot of connective tissues, small muscles and ligaments. Giving a thumbs up, or using a curled toe to grip the pen that fell under your desk seem like simple acts but are actually basically biomechanical miracles. They’ve proven hard to replicate due to some of the limitations of traditional 3D printing methods.
 
-But perhaps not for long, as [arsTechnica reported](https://arstechnica.com/science/2023/11/scientists-3d-print-a-robotic-hand-with-human-like-bones-and-tendons/?utm_source=join1440&utm_medium=email&utm_placement=newsletter) in November 2023.
+But perhaps not for long, as [Ars Technica reported](https://arstechnica.com/science/2023/11/scientists-3d-print-a-robotic-hand-with-human-like-bones-and-tendons/) in November 2023.
 
 Using a new 3d printing method called [vision-controlled jetting](https://www.youtube.com/watch?v=GDFuBoeVd_8) (VCJ), a team of researchers from the Swiss Federal Institute of Technology (ETH), Zurich, and a U.S.-based startup called Inkbit, have created a prosthetic hand that has flexible tendon- and ligament-like structures.
 
