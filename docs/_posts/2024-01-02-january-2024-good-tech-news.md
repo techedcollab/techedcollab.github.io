@@ -16,7 +16,7 @@ _This is what came up when we searched for a CC-license image that showed “exc
 
 _Credit: Startup Stock Photos_
 
-This [Technology Education Collaborative](http://www.techedcollab.org) newsletter covers some of the best tech that furthers humanity. We know it’s easy to [get pessimistic](https://www.techedcollab.org/2021/03/18/an-abundance-of-scarcity.html) in [today’s technology landscape](https://www.techedcollab.org/2021/03/18/an-abundance-of-scarcity.html). This newsletter serves as a reminder of why humans still love tech anyway. After all, so much of today’s newest technology is amazing, awe-inspiring, and often, just plain fun.
+This [Technology Education Collaborative](https://www.techedcollab.org) newsletter covers some of the best tech that furthers humanity. We know it’s easy to [get pessimistic](https://www.techedcollab.org/2021/03/18/an-abundance-of-scarcity.html) in [today’s technology landscape](https://www.techedcollab.org/2021/03/18/an-abundance-of-scarcity.html). This newsletter serves as a reminder of why humans still love tech anyway. After all, so much of today’s newest technology is amazing, awe-inspiring, and often, just plain fun.
 
 ---
 
@@ -24,7 +24,7 @@ This [Technology Education Collaborative](http://www.techedcollab.org) newslette
 
 ![Two side by side photos, one where man is sitting, the other is the man walking down stairs](/assets/images/articles/2024-01-02-good-tech-news-2.jpg)
 
-Thanks to a [revolutionary spinal implant](https://www.insider.com/spine-stimulator-implant-helps-parkinsons-disease-walk-2023-11), Marc Gautier, 62, enjoys Sunday strolls around a pond despite his [advanced Parkinson’s disease](https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/symptoms-causes/syc-20376055#:~:text=Parkinson's%20disease%20is%20a%20progressive,stiffness%20or%20slowing%20of%20movement.). Parkinson’s disease, for which there is currently no cure, causes increasingly severe mobility issues due to a lack of dopamine in the body.
+Thanks to a [revolutionary spinal implant](https://www.insider.com/spine-stimulator-implant-helps-parkinsons-disease-walk-2023-11), Marc Gautier, 62, enjoys Sunday strolls around a pond despite his [advanced Parkinson’s disease](https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/symptoms-causes/syc-20376055). Parkinson’s disease, for which there is currently no cure, causes increasingly severe mobility issues due to a lack of dopamine in the body.
 
 Using neuroprosthesis to treat Parkinson’s isn’t new. In addition to medications that help alleviate symptoms, treatment can include implanting electrodes in a person’s brain to produce electrical activity that helps movement.
 
@@ -82,7 +82,7 @@ That said, this technology gives rise to the ability for policy and society to c
 
 Whether it’s blood test results that can take days or weeks or an outbreak of illness due to contaminated food or water, when it comes to harmful pathogens, every second counts.
 
-A research team at MIT may have found a way to [drastically reduce the time it takes to test for pathogens](https://news.mit.edu/2023/tiny-magnetic-beads-quickly-detect-pathogens-0825) using Dynabeads. These highly magnetic, microscopic beads themselves [aren’t new tech](https://pubmed.ncbi.nlm.nih.gov/17680228/#:~:text=Dynabeads%20are%20uniform%20polystyrene%20spherical,the%20magnetic%20field%20is%20removed.), but the way they are being used by researchers is new.
+A research team at MIT may have found a way to [drastically reduce the time it takes to test for pathogens](https://news.mit.edu/2023/tiny-magnetic-beads-quickly-detect-pathogens-0825) using Dynabeads. These highly magnetic, microscopic beads themselves [aren’t new tech](https://pubmed.ncbi.nlm.nih.gov/17680228/), but the way they are being used by researchers is new.
 
 Dynabeads test blood and other items for specific molecules, usually harmful pathogens like _Salmonella_ or sepsis.  The beads are coated with antibodies that attach to specific molecules in the test sample. Then the Dynabeads are separated from the test sample using magnets. The molecules that are attached to the beads are then identified or analyzed through another process.
 

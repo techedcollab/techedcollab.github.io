@@ -8,7 +8,7 @@ image: /assets/images/articles/2023-11-06-five-healthy-alternatives-to-elon-musk
 
 [Celebrity worship](https://www.livescience.com/18649-oscar-psychology-celebrity-worship.html) is basic human nature. It may stem from our innate fear of death, as [Terror Management Theory](https://www.psychologytoday.com/us/basics/terror-management-theory) suggests. Or, it might be the [halo effect](https://www.psychologytoday.com/us/basics/halo-effect), a phenomenon in which a person assumes excellence in one domain translates into excellence in all domains. Regardless of the reason, the fact remains that, for much of society, celebrity worship meets core human psychological needs.
 
-So it makes sense, given our tech-centered society, that technologists have become the new cult of personality messiahs. Especially rich technologists, since humans associate wealth with all kinds of [positive qualities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5902732/), regardless of whether that relationship [actually exists](https://www.weforum.org/agenda/2016/10/wealth-can-make-us-selfish-and-stingy-two-psychologists-explain-why/) or [not](https://greatergood.berkeley.edu/article/item/are_rich_people_really_less_ethical#:~:text=The%20findings%20overall%20led%20to,seemed%20to%20corroborate%20this%20idea.).
+So it makes sense, given our tech-centered society, that technologists have become the new cult of personality messiahs. Especially rich technologists, since humans associate wealth with all kinds of [positive qualities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5902732/), regardless of whether that relationship [actually exists](https://www.weforum.org/agenda/2016/10/wealth-can-make-us-selfish-and-stingy-two-psychologists-explain-why/) or [not](https://greatergood.berkeley.edu/article/item/are_rich_people_really_less_ethical).
 
 Enter Elon Musk.
 
@@ -18,7 +18,7 @@ Whatever your opinions of Musk, when it comes to celebrity worship of a technolo
 
 The people on this list are also actively engaged in tangible, impactful work that **protects free speech and privacy**, **promotes an open, user-based internet**, and generally explores ways **technology can advance _all_ of humanity**.
 
-Even better, these five people have achieved great things in the tech space without [pre-holiday mass layoffs](https://www.cnn.com/2023/04/12/tech/elon-musk-bbc-interview-twitter-intl-hnk/index.html) at newly-acquired companies, [overpaying themselves](https://arstechnica.com/tech-policy/2023/07/musk-tesla-board-to-return-735m-after-being-sued-for-overpaying-themselves/#:~:text=On%20February%2021%2C%20attorneys%20for,visiting%20Mars%20in%20the%20future.) and [their corporate board](https://www.cnbc.com/2023/07/17/tesla-directors-settle-lawsuit-over-compensation-for-735-million.html) at other companies they run part time, or resorting to [adolescent jokes](https://qz.com/work/2082746/elon-musks-tweet-captures-everyday-sexism-faced-by-women-in-stem). And the government didn’t need to [bail their companies out](https://www.latimes.com/business/la-fi-hy-musk-subsidies-20150531-story.html), either.
+Even better, these five people have achieved great things in the tech space without [pre-holiday mass layoffs](https://www.cnn.com/2023/04/12/tech/elon-musk-bbc-interview-twitter-intl-hnk/index.html) at newly-acquired companies, [overpaying themselves](https://arstechnica.com/tech-policy/2023/07/musk-tesla-board-to-return-735m-after-being-sued-for-overpaying-themselves/) and [their corporate board](https://www.cnbc.com/2023/07/17/tesla-directors-settle-lawsuit-over-compensation-for-735-million.html) at other companies they run part time, or resorting to [adolescent jokes](https://qz.com/work/2082746/elon-musks-tweet-captures-everyday-sexism-faced-by-women-in-stem). And the government didn’t need to [bail their companies out](https://www.latimes.com/business/la-fi-hy-musk-subsidies-20150531-story.html), either.
 
 **If you’re the kind of person who would have backed Nicola Tesla over Thomas Edison**, or someone who remains puzzled as to why we’re not all using Linux, **this list is for you.**
 
@@ -62,7 +62,7 @@ Smith, a former vice president of Google and lifetime MIT board appointee, is al
 
 _Radia Perlman, inventor of the Spanning Tree Protocol algorithm_
 
-Do you use the internet? Take a moment and give thanks to [Radia Perlman](https://lemelson.mit.edu/resources/radia-perlman#:~:text=Engineer%20and%20mathematician%20Radia%20Perlman,“Mother%20of%20the%20Internet.”), a network engineer, mathematician, and computer programmer.
+Do you use the internet? Take a moment and give thanks to [Radia Perlman](https://lemelson.mit.edu/resources/radia-perlman), a network engineer, mathematician, and computer programmer.
 
 The **"Mother of the Internet" invented the algorithm on which [Spanning Tree Protocol](https://en.wikipedia.org/wiki/Spanning_Tree_Protocol)<span style="text-decoration:underline;"> </span>is based.** For you non-tech people, that’s basically kinda-sorta what makes the networking part of an Ethernet connection function.
 
@@ -86,7 +86,7 @@ But that’s not why he’s on _this_ list.
 
 The U.K. Open Rights Group doesn’t just tweet and blog about these issues. **It [equips advocates and organizers](https://www.openrightsgroup.org/publications/campaign-pack-data-discrimination-bill/) in practical, actionable ways** to change laws, systems and societal perceptions.
 
-**It’s worth noting who co-founded the U.K. Open Rights group with Doctorow.** These are yet _more_ impressive, admirable people who deserve far more media coverage than they get. Specifically, we mean [Suw Charman-Anderson](https://en.wikipedia.org/wiki/Suw_Charman), [Rufus Pollock](https://en.wikipedia.org/wiki/Rufus_Pollock), [Louise Ferguson](https://en.wikipedia.org/w/index.php?title=Louise_Ferguson&action=edit&redlink=1), [Danny O'Brien](https://en.wikipedia.org/wiki/Danny_O%27Brien_(journalist)), [Ian Brown](https://en.wikipedia.org/w/index.php?title=Ian_Brown_(technologist)&action=edit&redlink=1), [James Cronin](https://en.wikipedia.org/w/index.php?title=James_Cronin_(technologist)&action=edit&redlink=1), and [Stefan Magdalinski](https://en.wikipedia.org/w/index.php?title=Stefan_Magdalinski&action=edit&redlink=1).
+**It’s worth noting who co-founded the U.K. Open Rights group with Doctorow.** These are yet _more_ impressive, admirable people who deserve far more media coverage than they get. Specifically, we mean [Suw Charman-Anderson](https://en.wikipedia.org/wiki/Suw_Charman), [Rufus Pollock](https://en.wikipedia.org/wiki/Rufus_Pollock), [Louise Ferguson](https://www.openrightsgroup.org/advisory-council/louise-ferguson/), [Danny O'Brien](https://en.wikipedia.org/wiki/Danny_O%27Brien_(journalist)), [Ian Brown](https://www.ianbrown.tech/about/), [James Cronin](https://www.openrightsgroup.org/advisory-council/james-cronin/), and [Stefan Magdalinski](https://public.digital/people/stefan-magdalinski).
 
 **Doctorow has also worked extensively with the Electronic Frontier Foundation, popularly known as the [EFF](https://www.eff.org/), as its European Director.** The EFF is mostly known for filing many lawsuits that are the tip of legal spear that protects what digital freedom we have left.
 
@@ -119,7 +119,7 @@ Disagree with this list? Have a technologist you think should have been included
 ### **Need more TEC in your life?**
 
 **Subscribe** to our monthly blog, published on [Substack](https://techedcollab.substack.com/).
-\
+
 Sign up for our **AZ Tech Law & Policy newsletter **to keep up with the latest tech-related laws, regulations and government debates or decisions**.**
 
 **Have something to say?** [Join the discussion](https://discord.gg/bFBcmbFeVZ) on our Discord server.

@@ -8,6 +8,7 @@ options = {
     /^https:\/\/senryu\.pub/, # Domain is dead,
     /https:\/\/www.fakefake.news/, # Domain squatter
     /https:\/\/www.learnpythonwithrune.org/, # Inactive domain
+    /https:\/\/www.nature.com\/articles\/s41591-023-02584-1/, # 406 error but still loads
   ],
 }
 
