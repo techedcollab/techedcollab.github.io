@@ -1,5 +1,5 @@
 ---
-date: 2024-03-25
+date: 2024-04-25
 title: "Right to Repair Workshop"
 image: assets/images/events/2024-02-27-right-to-repair-workshop/RightToRepairHub2.jpg
 ---

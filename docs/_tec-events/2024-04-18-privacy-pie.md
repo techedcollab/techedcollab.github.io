@@ -1,5 +1,5 @@
 ---
-date: 2024-03-18
+date: 2024-04-18
 title: "Privacy PIE"
 image: assets/images/events/2024-04-18-privacy-pie/1712286140650.png
 ---
