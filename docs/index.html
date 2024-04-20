@@ -1,29 +1,50 @@
----
-title: Tech Education Collaborative
-layout: home
+--- 
+title: Tech Education Collaborative 
+layout: home 
 ---
 
 <b>The Technology Education Collaborative supports the secure, thoughtful use of technology.</b>
 <p>
-Our efforts help people better understand the computers embedded in everyday life so people are empowered to make intentional decisions about the tech they use.
+    Our efforts help people better understand the computers embedded in everyday life so people are empowered to make intentional decisions about the tech they use.
+</p>
 <p>
-Through articles written by experienced technologists and credible sources, we explore topics ranging from cybersecurity to cutting-edge tech advancements. We keep people impacted by tech policy – which is basically everyone – informed by sharing actionable information about current legislation and policy work in the tech space.
+    Through articles written by experienced technologists and credible sources, we explore topics ranging from cybersecurity to cutting-edge tech advancements. We keep people impacted by tech policy – which is basically everyone – informed by sharing actionable
+    information about current legislation and policy work in the tech space.
+</p>
 <p>
     By providing both physical and virtual spaces for technology meetups and events, <strong>we support and foster the Arizona tech community</strong> with accessible ways to promote thoughtful, robust discussion and collaboration.
-
+</p>
 <h1>Upcoming Events</h1>
-<a href="tec-events/2024-04-18-privacy-pie.html">Privacy PIE, April 18th
-    <img src="/assets/images/events/2024-04-18-privacy-pie/1712286140650.png" alt="Example setup of a workbench at the right to repair event">
-</a>
-<a href="tec-events/2024-04-25-right-to-repair-workshop.html">Right to Repair Workshop, April 25th
-    <img src="/assets/images/events/2024-02-27-right-to-repair-workshop/RightToRepairHub2.jpg" alt="Example setup of a workbench at the right to repair event">
-</a>
+<div class="events-list">
+    {% for event in site.tec-events %}
+        {% assign today_date = 'now' | date: "%s" %}
+        {% assign event_date = event.date | date: "%s" %}
+        {% if event_date > today_date %}
+        <div class="event-item">
+            <a href="{{ event.url }}">
+                <h2 class="event-title">{{ event.title }}</h2>
+                {%- if event.image -%}
+                <div class="event-image">
+                    <img src="{{ event.image }}" alt="Event image">
+                </div>
+                {%- endif -%}
+                <div class="event-info">
+                    <p class="date">{{ event.date | date: "%b %-d, %Y" }}</p>
+                </div>
+            </a>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
 <p>
-<h1>Recent Publications</h1>
-<a href="https://techedcollab.substack.com/p/emerging-trends-in-cybersecurity">Emerging Trends in Cybersecurity</a>
+    <h1>Recent Publications</h1>
+    <a href="https://techedcollab.substack.com/p/emerging-trends-in-cybersecurity">Emerging Trends in Cybersecurity</a>
+</p>
 <p>
-<h1>Past Publications</h1>
-<a href="https://us21.campaign-archive.com/home/?u=fff4f557eb25c16e17141d89b&id=77c72f8e21">Check out our previous newsletters here</a>
+    <h1>Past Publications</h1>
+    <a href="https://us21.campaign-archive.com/home/?u=fff4f557eb25c16e17141d89b&id=77c72f8e21">Check out our previous newsletters here</a>
+</p>
 <p>
-<h1>Local Tech Events</h1>
-<a href="local-tech-calendar.html">Check out upcoming local tech events here</a>
+    <h1>Local Tech Events</h1>
+    <a href="local-tech-calendar.html">Check out upcoming local tech events here</a>
+</p>
