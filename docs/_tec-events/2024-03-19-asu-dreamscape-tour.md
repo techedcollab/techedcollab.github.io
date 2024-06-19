@@ -1,7 +1,7 @@
 ---
 date: 2024-03-19
 title: "ASU VR Dreamscape Learning Lab Tour"
-image: assets/images/events/2024-02-27-right-to-repair-workshop/RightToRepairHub2.jpg
+image: ../assets/images/events/2023-03-19-asu-dreamscape-tour/1710952622290.jpeg
 ---
 
 # ASU Dreamscape Tour
