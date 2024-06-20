@@ -47,6 +47,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
+future: true
+
 defaults:
   - scope:
       path: ""

@@ -25,20 +25,24 @@ This publication will examine issues in tech and society in a way that (hopefull
 <h2>TEC Articles</h2>
 <div class="articles-list">
     {% for post in site.posts %}
-    <div class="article-item">
-        <h2 class="article-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {%- if post.image -%}
-        <div class="article-image">
-            <img src="{{ post.image }}" alt="Article image">
+        {% assign today_date = 'now' | date: "%s" %}
+        {% assign post_date = post.date | date: "%s" %}
+        {% if  today_date > post_date %}
+        <div class="article-item">
+            <h2 class="article-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            {%- if post.image -%}
+            <div class="article-image">
+                <img src="{{ post.image }}" alt="Article image">
+            </div>
+            {%- endif -%}
+            <div class="article-info">
+                <p class="author">{{ post.author | join: ', ' }}</p>
+                <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+                <p class="reading-time">{{ post.reading_time }} min read</p>
+                <p class="excerpt">{{ post.excerpt }}</p>
+            </div>
         </div>
-        {%- endif -%}
-        <div class="article-info">
-            <p class="author">{{ post.author | join: ', ' }}</p>
-            <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
-            <p class="reading-time">{{ post.reading_time }} min read</p>
-            <p class="excerpt">{{ post.excerpt }}</p>
-        </div>
-    </div>
+        {% endif %}
     {% endfor %}
 </div>
 
