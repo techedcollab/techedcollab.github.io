@@ -12,13 +12,24 @@ image: assets/images/events/2024-04-18-privacy-pie/1712286140650.png
 
 ## Summary
 
-This month Christina Eichelkraut – an unabashed, car free urbanist -- will discuss smart cities and their implications for personal privacy. 
+Talk: Smart Cities: What They Know About You
 
-Much of this technology is incredible, necessary and will certainly elevate and enhance urban life. But there are still privacy and civil rights implications that often go ignored by nontechnical decision makers who are (understandably) bedazzled by this specific kind of technology’s potential. Phoenix and Portland are the epicenters of the national smart city movement and receiving a lot of federal funding for implementation, so this discussion is of particular importance to local residents within the Phoenix metro Valley. 
+This month [Christina Eichelkraut](https://www.techedcollab.org/people/christina_eichelkraut.html) - an unabashed, car free urbanist -- will discuss **[smart cities](https://www.twi-global.com/technical-knowledge/faqs/what-is-a-smart-city) and their implications for personal privacy.**
 
-This event is free and open to the general public. 
+Much of this technology is incredible, necessary and will certainly elevate and enhance urban life.
 
-Last Slice of Privacy PIE: This 20-minute section at the end of the meeting will show you some no-code tools that help you understand what EULAS say. 
+But there are still **privacy and civil rights implications that often go ignored** by nontechnical decision makers who are (understandably) bedazzled by this specific kind of technology's potential.
+
+[Phoenix](https://law.asu.edu/centers/law-science-innovation/smart-cities-and-regions) and Portland are the epicenters of the national smart city movement and receiving a lot of federal funding for implementation, so this discussion is of particular importance to local residents within the Phoenix metro Valley.
+
+**Last Slice of Privacy PIE:** This 20-minute section at the end of the meeting will show you **easy ways to protect your privacy when out in public..**
+
+**Leftover PIE:** Check out a previous Privacy PIE talk 
+[What the FISA?! Part 2: It Actually Gets Worse](https://drive.google.com/file/d/1sRJO2RDO8RmVKp88NnVCsZx06OohTR0R/view) (January 25, 2024)
+
+[Eventbrite](https://www.eventbrite.com/e/privacy-pie-smart-cities-what-they-know-about-you-tickets-931645395457?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
+
+[LinkedIn Event](https://www.linkedin.com/events/privacypie-smartcities-whatyour7210475982128828416/)
 
 ## Parking Map
 
