@@ -25,6 +25,7 @@ $theme-color-light: #9faac4;
 
 .site-title-logo {
   float: left;
+  margin-top: .4em;
 }
 
 .tec-button {
@@ -42,10 +43,23 @@ $theme-color-light: #9faac4;
   color: $theme-color-light;
 }
 
+.tec-event-img {
+  margin-bottom: .5em;
+}
+
 .contact-form {
   color: $theme-color-dark;
 }
 
 a {
   color: $theme-color-dark;
+}
+
+h1, h2 {
+  margin-bottom: .125em;
+}
+
+p {
+  line-height: initial;
+  margin: 1em 0;
 }

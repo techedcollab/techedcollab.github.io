@@ -6,7 +6,7 @@ image: ../assets/images/events/2023-03-19-asu-dreamscape-tour/1710952622290.jpeg
 
 # ASU Dreamscape Tour
 
-- March 19th, 2pm
+- March 19th, 2 p.m.
 - ASU Tempe: Second floor of the Creative Commons Building
 
 ## Summary 

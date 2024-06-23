@@ -6,7 +6,7 @@ image: assets/images/events/2024-04-18-privacy-pie/1712286140650.png
 
 # Privacy PIE
 
-- April 18th, 6pm
+- April 18th, 6 p.m.
 - Advanced Cyber Systems Lab at Gateway Community College
 
 ## Summary
