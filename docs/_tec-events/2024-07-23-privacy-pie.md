@@ -2,7 +2,7 @@
 date: 2024-07-23
 title: "Privacy PIE: Smart Cities: What They Know About You"
 summary: "This month Christina Eichelkraut – an unabashed, car free urbanist -- will discuss smart cities and their implications for personal privacy."
-image: assets/images/events/2024-04-18-privacy-pie/1712286140650.png
+image: assets/images/events/2024-07-23-privacy-pie/https___cdn.evbuc.com_images_794564249_2170620874043_1_original.jfif
 ---
 
 # Privacy PIE: Smart Cities: What They Know About You

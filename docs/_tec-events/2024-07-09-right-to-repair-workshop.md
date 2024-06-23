@@ -2,7 +2,7 @@
 date: 2024-07-09
 title: "Right to Repair Workshop: RAM More Memory into Your Computer"
 summary: "This month TEC’s own Wyatt Johnson will be leading a session on replacing or upgrading a computer’s RAM."
-image: assets/images/events/2024-02-27-right-to-repair-workshop/RightToRepairHub2.jpg
+image: assets/images/events/2024-07-09-right-to-repair/image1.png
 ---
 
 # Right to Repair Workshop: RAM More Memory into Your Computer
