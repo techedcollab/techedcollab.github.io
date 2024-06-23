@@ -6,7 +6,7 @@ image: assets/images/events/2024-03-28-aztea-tech-town-hall/March_Tech_Town_Hall
 
 # Right to Repair Workshop
 
-- March 28th, 12pm
+- March 28th, 12 p.m.
 - Advanced Cyber Systems Lab at Gateway Community College
 
 ## Summary

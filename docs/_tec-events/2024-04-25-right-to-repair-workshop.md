@@ -6,7 +6,7 @@ image: assets/images/events/2024-02-27-right-to-repair-workshop/RightToRepairHub
 
 # Right to Repair Workshop
 
-- April 25th, 7pm
+- April 25th, 7 p.m.
 - Advanced Cyber Systems Lab at Gateway Community College
 
 ## Summary
